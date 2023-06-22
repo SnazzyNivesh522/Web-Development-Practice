@@ -1,0 +1,22 @@
+.black{
+    background-color: black;
+    padding: 2px;
+    border: 2px solid white;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+    font-family: "Libre Baskerville", serif;
+    width: 50%;    
+    
+}
+h1{
+    font-size: 23px;
+}
+.quote{
+    
+    margin: 10px;
+}
+#motivational-img{
+    border: 5px solid white;
+    width: 100%;
+}
